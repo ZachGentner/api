@@ -2,7 +2,7 @@ const test = document.getElementById('test');
 const form = document.getElementById('form');
 const input = document.getElementById('input');
 
-const key = 'zVx0IcmoqVOG71GGd4U9gnjNiLTOf2I1';
+const key = 'YOUR_API_KEY';
 
 form.addEventListener('submit', (e) => {
 
